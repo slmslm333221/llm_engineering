@@ -191,6 +191,12 @@ nohup.out
 scraper_cache/
 challenge/
 
+# Ignore uv lock file
+uv.lock
+
+# Ignore .gitignore (myself :D)
+.gitignore
+
 # WandB local sync data.
 wandb/
 
